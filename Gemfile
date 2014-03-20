@@ -12,6 +12,8 @@ group :production do
   gem 'pg'
 end
 
+
+
 #Use devise
 gem 'devise'
 
