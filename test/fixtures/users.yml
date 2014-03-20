@@ -1,0 +1,11 @@
+gabe: 
+  first_name: "Gabriel"
+  last_name: "Morales"
+  email: "gabomorales@me.com"
+  profile_name: "gabemdev"
+
+jim: 
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@me.com"
+  profile_name: "jimhoskins"
