@@ -5,8 +5,3 @@ image from Gravatar.
 
 Still a work in progress. 
 
-Installation: 
-
-
-
- ...
