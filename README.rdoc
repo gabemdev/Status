@@ -1,7 +1,0 @@
-== README
-
-Status is a Rails app that mimics Twitter. It uses Simple_Form and Devise for authentication. It also uses your profile
-image from Gravatar. 
-
-Still a work in progress. 
-
